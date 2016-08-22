@@ -6,10 +6,10 @@ from operator import mul
 
 STOCKS = {
         'TEA': {"symbol": 'TEA', "type": 'Common', "last_dividend": 0, "fixed_dividend": 0.0, "par_value": 100},
-        'POP': {"symbol": 'POP', "type": 'Common', "last_dividend": 0.08, "fixed_dividend": 0.0, "par_value": 100},
-        'ALE': {"symbol": 'ALE', "type": 'Common', "last_dividend": 0.23, "fixed_dividend": 0.0, "par_value": 60},
-        'GIN': {"symbol": 'GIN', "type": 'Preferred', "last_dividend": 0.8, "fixed_dividend": 0.02, "par_value": 100},
-        'JOE': {"symbol": 'JOE', "type": 'Common', "last_dividend": 0.13, "fixed_dividend": 0.0, "par_value": 250}
+        'POP': {"symbol": 'POP', "type": 'Common', "last_dividend": 8, "fixed_dividend": 0.0, "par_value": 100},
+        'ALE': {"symbol": 'ALE', "type": 'Common', "last_dividend": 23, "fixed_dividend": 0.0, "par_value": 60},
+        'GIN': {"symbol": 'GIN', "type": 'Preferred', "last_dividend": 8, "fixed_dividend": 0.02, "par_value": 100},
+        'JOE': {"symbol": 'JOE', "type": 'Common', "last_dividend": 13, "fixed_dividend": 0.0, "par_value": 250}
     }
 
 trades = []

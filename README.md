@@ -1,5 +1,5 @@
 # Super Simple Stocks
-JP Morgan assessment assignement
+Super Simple Code for Super Simple Stocks: JP Morgan assessment assignement
 
 ## Description
 The source code that will :
